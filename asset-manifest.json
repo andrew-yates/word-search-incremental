@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/word_search/static/css/main.073c9b0a.css",
-    "main.js": "/word_search/static/js/main.1e591862.js",
-    "static/js/787.d69b1e67.chunk.js": "/word_search/static/js/787.d69b1e67.chunk.js",
-    "static/media/logo.svg": "/word_search/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/word_search/index.html",
-    "main.073c9b0a.css.map": "/word_search/static/css/main.073c9b0a.css.map",
-    "main.1e591862.js.map": "/word_search/static/js/main.1e591862.js.map",
-    "787.d69b1e67.chunk.js.map": "/word_search/static/js/787.d69b1e67.chunk.js.map"
+    "main.css": "/word-search-incremental/static/css/main.073c9b0a.css",
+    "main.js": "/word-search-incremental/static/js/main.f068463c.js",
+    "static/js/787.d69b1e67.chunk.js": "/word-search-incremental/static/js/787.d69b1e67.chunk.js",
+    "static/media/logo.svg": "/word-search-incremental/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/word-search-incremental/index.html",
+    "main.073c9b0a.css.map": "/word-search-incremental/static/css/main.073c9b0a.css.map",
+    "main.f068463c.js.map": "/word-search-incremental/static/js/main.f068463c.js.map",
+    "787.d69b1e67.chunk.js.map": "/word-search-incremental/static/js/787.d69b1e67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1e591862.js"
+    "static/js/main.f068463c.js"
   ]
 }
